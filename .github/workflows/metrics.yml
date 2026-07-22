@@ -1,10 +1,7 @@
 name: Metrics
 on:
-  # Schedule daily updates
   schedule: [{cron: "0 0 * * *"}]
-  # (optional) Run workflow manually
   workflow_dispatch:
-  # (optional) Run workflow when pushing on master/main
   push: {branches: ["master", "main"]}
 jobs:
   github-metrics:
@@ -20,19 +17,20 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Kolkata
           plugin_languages: yes
-          plugin_languages_ignored: html, css
           plugin_languages_details: bytes-size, percentage
           config_order: base.header, base.activity+community, base.repositories, languages
           
-      - name: Achievements
+      - name: Coding Habits
         uses: lowlighter/metrics@latest
         with:
-          filename: metrics.achievements.svg
+          filename: metrics.habits.svg
           token: ${{ secrets.GITHUB_TOKEN }}
           base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: detailed
-          plugin_achievements_threshold: C
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
           
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
