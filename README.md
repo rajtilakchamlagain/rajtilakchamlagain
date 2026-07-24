@@ -46,7 +46,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajtilakchamlagain&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rajtilakchamlagain&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -69,6 +69,16 @@
     </td>
   </tr>
 </table>
+
+<br/>
+
+### 📈 GitHub Activity Graph
+
+<div align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajtilakchamlagain&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=bf91f3&area=true&hide_border=true" alt="Activity Graph" />
+  </a>
+</div>
 
 <br/>
 
