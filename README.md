@@ -46,7 +46,7 @@
 ### 🏆 GitHub Trophies
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=rajtilakchamlagain&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=rajtilakchamlagain&amp;theme=dracula&amp;no-frame=true&amp;no-bg=true&amp;margin-w=15" alt="Trophies" />
   </a>
 </div>
 
@@ -57,15 +57,15 @@
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=rajtilakchamlagain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=rajtilakchamlagain&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Stats" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&amp;theme=tokyonight&amp;hide_border=true" alt="GitHub Streak" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=10" alt="Top Languages" />
     </td>
   </tr>
 </table>
