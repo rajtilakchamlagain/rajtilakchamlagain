@@ -39,9 +39,9 @@
       <p><b>⚙️ Core Neural Backbone:</b> <code>Ultralytics YOLOv8</code> + <code>ByteTrack Continuous Memory</code> + <code>RetinaFace Low-Light Extractor</code> + <code>512-Dimensional Deep ArcFace Vector Geometry</code></p>
       <p><b>✨ Key Engineering Breakthroughs:</b></p>
       <ul>
-        <li><b>Turnkey Autonomous Rank-1 Precision Lock:</b> Computes cosine biometric ratios to automatically isolate primary targets above crowd noise with zero false arrests.</li>
-        <li><b>Simultaneous Existence Veto:</b> Implements hard temporal logic preventing overlapping tracklet identity assignment across concurrent bounding boxes.</li>
-        <li><b>Multi-Candidate Ranked Video Dossier Production:</b> Automatically isolates multi-suspect matches into ranked video outputs complete with top-3 evidential snapshot galleries.</li>
+        <li><b>Autonomous Spectral Gap Detection:</b> Implements unsupervised maximal derivative thresholding ("Cliff Detection") to autonomously calculate separation boundaries between target subjects and crowd noise without manual guesswork.</li>
+        <li><b>Zero-Lag Horizontal Candidate Dossier Tabs:</b> Replaces heavy DOM byte injections with high-speed disk streaming and compressed JPEG memory tensors, guaranteeing 60-FPS interface fluidity.</li>
+        <li><b>Multi-Candidate Ranked Video Dossier Production:</b> Automatically isolates multi-suspect matches into independent ranked video outputs complete with top-3 standardized 300x300 evidential photo galleries.</li>
         <li><b>Automated 3x Forensic Slow-Motion Zoom:</b> Dynamically interpolates 3x slow-motion investigative replay for suspect trajectories appearing under 3.0 seconds in video footage.</li>
         <li><b>High-Speed Stride Optimization:</b> Eliminates CPU computational bottlenecks on 450+ frame video feeds while maintaining 100% mathematical recognition precision.</li>
       </ul>
@@ -100,18 +100,30 @@
 ## 📊 Live High-Speed GitHub Metrics & Analytics
 
 <p align="center">
-  <i>Metrics configured with real-time commit syncing and cache-busting to ensure accurate daily tracking across all private and public architectures.</i>
+  <i>Metrics configured with real-time commit syncing and 60-second live cache-busting to ensure instantaneous daily tracking across all private and public architectures.</i>
 </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajtilakchamlagain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800" alt="Rajtilak's GitHub Stats" style="max-width: 48%; display: inline-block; margin: 5px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Rajtilak's GitHub Streak" style="max-width: 48%; display: inline-block; margin: 5px;" />
-</div>
+<table width="100%" align="center" style="border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/rajtilakchamlagain">
+        <img src="https://github-readme-stats.git-e.org/api?username=rajtilakchamlagain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60&v=20260727" alt="Rajtilak's GitHub Stats" width="100%" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none; padding: 5px;">
+      <a href="https://github.com/rajtilakchamlagain">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&theme=tokyonight&hide_border=true&cache_seconds=60&v=20260727" alt="Rajtilak's GitHub Streak" width="100%" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" alt="Top Languages" style="max-width: 80%; display: inline-block;" />
+  <a href="https://github.com/rajtilakchamlagain">
+    <img src="https://github-readme-stats.git-e.org/api/top-langs/?username=rajtilakchamlagain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&langs_count=8&v=20260727" alt="Top Languages" width="80%" />
+  </a>
 </div>
 
 <br/>
