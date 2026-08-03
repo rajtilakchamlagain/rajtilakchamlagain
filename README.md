@@ -107,12 +107,12 @@
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none; padding: 5px;">
       <a href="https://github.com/rajtilakchamlagain">
-        <img src="https://github-readme-stats.vercel.app/api?username=rajtilakchamlagain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=60&v=20260727" alt="Rajtilak's GitHub Stats" width="100%" />
+        <img src="https://github-readme-stats.vercel.app/api?username=rajtilakchamlagain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rajtilak's GitHub Stats" width="100%" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none; padding: 5px;">
       <a href="https://github.com/rajtilakchamlagain">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&theme=tokyonight&hide_border=true&cache_seconds=60&v=20260727" alt="Rajtilak's GitHub Streak" width="100%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&theme=tokyonight&hide_border=true" alt="Rajtilak's GitHub Streak" width="100%" />
       </a>
     </td>
   </tr>
@@ -122,7 +122,7 @@
 
 <div align="center">
   <a href="https://github.com/rajtilakchamlagain">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=60&langs_count=8&v=20260727" alt="Top Languages" width="80%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="80%" />
   </a>
 </div>
 
