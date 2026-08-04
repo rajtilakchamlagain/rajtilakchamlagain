@@ -97,33 +97,14 @@
 
 ---
 
-## 📊 Live High-Speed GitHub Metrics & Analytics
+## 📊 Advanced GitHub Engineering Analytics
 
 <p align="center">
-  <i>Metrics configured with real-time commit syncing and 60-second live cache-busting to ensure instantaneous daily tracking across all private and public architectures.</i>
+  <i>Metrics compiled daily via GitHub Actions for 100% reliability and robust statistical tracking.</i>
 </p>
 
-<table width="100%" align="center" style="border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/rajtilakchamlagain">
-        <img src="https://github-readme-stats.vercel.app/api?username=rajtilakchamlagain&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Rajtilak's GitHub Stats" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="50%" style="border: none; padding: 5px;">
-      <a href="https://github.com/rajtilakchamlagain">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&theme=tokyonight&hide_border=true" alt="Rajtilak's GitHub Streak" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <div align="center">
-  <a href="https://github.com/rajtilakchamlagain">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" width="80%" />
-  </a>
+  <img src="github-metrics.svg" alt="Rajtilak's GitHub Metrics" width="100%" />
 </div>
 
 <br/>
