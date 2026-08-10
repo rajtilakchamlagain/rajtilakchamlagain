@@ -113,6 +113,14 @@
 
 ## 🌟 Visualizing Commit Persistence & Systems Kinetics
 
+### 🔥 GitHub Streak & Language Metrics
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=rajtilakchamlagain&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
 ### 🧊 3D Contribution Architecture
 <div align="center">
   <!-- Generated daily by yoshi389111/github-profile-3d-contrib Action -->
