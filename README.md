@@ -115,8 +115,8 @@
 
 ### 🔥 GitHub Streak & Language Metrics
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=rajtilakchamlagain&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=pie&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajtilakchamlagain&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajtilakchamlagain&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 <br/>
