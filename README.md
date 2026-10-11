@@ -13,8 +13,14 @@
     <a href="mailto:rjtiksrm@gmail.com">
       <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
-    <a href="https://my-portfolio-henna-rho-16.vercel.app/" target="_blank">
-      <img src="https://img.shields.io/badge/Official_Portfolio-0F172A?style=for-the-badge&logo=Google-Chrome&logoColor=00f0ff" alt="Website" />
+    <a href="https://rajtilak.me" target="_blank">
+      <img src="https://img.shields.io/badge/Official_Portfolio-rajtilak.me-FF9A9E?style=for-the-badge&logo=Google-Chrome&logoColor=white" alt="rajtilak.me" />
+    </a>
+    <a href="https://rajtilak.live" target="_blank">
+      <img src="https://img.shields.io/badge/Mirror-rajtilak.live-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="rajtilak.live" />
+    </a>
+    <a href="https://rajtilakchamlagain.tech" target="_blank">
+      <img src="https://img.shields.io/badge/.tech-rajtilakchamlagain.tech-22D3EE?style=for-the-badge&logo=safari&logoColor=white" alt="rajtilakchamlagain.tech" />
     </a>
     <a href="https://github.com/rajtilakchamlagain">
       <img src="https://komarev.com/ghpvc/?username=rajtilakchamlagain&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
